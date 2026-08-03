@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+yt-dlp
+faster-whisper
+sumy
+scikit-learn
+sentence-transformers
+youtube-transcript-api
+praw
+pytest
+httpx
+requests
